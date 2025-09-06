@@ -47,4 +47,4 @@ def server(input, output, session):
 
 # Ejecución de la aplicación
 app = App(app_ui, server)
-app.run()
+# app.run()
