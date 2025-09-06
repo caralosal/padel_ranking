@@ -1,4 +1,4 @@
-pandas==1.5.1
+pandas
 pyarrow
 shiny==1.2.1
 shinywidgets==0.3.4
